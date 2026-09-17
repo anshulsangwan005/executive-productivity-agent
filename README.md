@@ -55,9 +55,9 @@ Agent Controller
        |                  |
        v                  v
 Commitments          Information Sources
-                     |       |       |
-                     v       v       v
-                   Emails  Calendar  Voice Notes
+                     |               |       
+                     v               v
+                   Emails         Calendar
        |
        v
 Reasoning & Response
